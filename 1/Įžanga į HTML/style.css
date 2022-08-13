@@ -1,0 +1,19 @@
+Body{height: 95vh;}
+
+body,.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: rgb(187, 187, 187);
+    height: 10vh;
+    width: 10vh;
+}
+
+.container{
+    height: fit-content;
+    width: fit-content;
+}
